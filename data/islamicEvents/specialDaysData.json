@@ -1,0 +1,172 @@
+{
+  "specialDays": [
+    {
+      "month": 0,
+      "day": 1,
+      "name": "New Year's Day",
+      "description": "Marks the beginning of the Islamic lunar calendar year.",
+      "dateLabel": "1 Muharram",
+      "imageUrl": "image3",
+      "quote": "“A new year, a new opportunity for growth and gratitude.”",
+      "todos": [
+        {
+          "icon": "🕌",
+          "label": "Reflect on the past year and set intentions for the new year"
+        },
+        {
+          "icon": "🤲",
+          "label": "Offer special prayers for guidance and blessings"
+        },
+        {
+          "icon": "📖",
+          "label": "Recite the Du’a for the new year"
+        },
+        {
+          "icon": "💬",
+          "label": "Reach out and send well wishes to friends and family"
+        },
+        {
+          "icon": "🤝",
+          "label": "Forgive and seek forgiveness"
+        }
+      ],
+      "facts": [
+        "The Islamic New Year marks the beginning of the new Hijri year.",
+        "It is observed on the first day of Muharram, the first month of the Islamic lunar calendar.",
+        "Muslims reflect on the Hijrah (migration) of Prophet Muhammad ﷺ from Mecca to Medina.",
+        "While not a festival, it is a time for prayer, reflection, and self-renewal.",
+        "Many Muslims make resolutions and seek forgiveness at the start of the year."
+      ]
+    },
+    {
+      "month": 0,
+      "day": 10,
+      "name": "Ashura",
+      "description": "Commemorates the day Prophet Musa was saved from Pharaoh. Also fasting on this day expiates sins of previous year as per hadiths.",
+      "dateLabel": "10 Muharram",
+      "imageUrl": "image4",
+      "quote": "“Ashura is a day of reflection, remembrance, and peace.”",
+      "todos": [
+        {
+          "icon": "🕋",
+          "label": "Fast during the day (if you wish)"
+        },
+        {
+          "icon": "🤲",
+          "label": "Offer special prayers and supplications"
+        },
+        {
+          "icon": "🥗",
+          "label": "Share food with friends or those in need"
+        },
+        {
+          "icon": "💧",
+          "label": "Give charity, even if small"
+        },
+        {
+          "icon": "📖",
+          "label": "Read or reflect on the story of Ashura"
+        }
+      ],
+      "facts": [
+        "Ashura is observed on the 10th day of Muharram, the first month of the Islamic calendar.",
+        "For Sunni Muslims, Ashura commemorates the day Prophet Moses and the Israelites were saved from Pharaoh.",
+        "For Shia Muslims, Ashura marks the martyrdom of Imam Husayn ibn Ali, the grandson of Prophet Muhammad, at Karbala.",
+        "Fasting on Ashura is highly recommended and considered to bring great reward.",
+        "Acts of kindness and charity are especially encouraged on this day."
+      ]
+    },
+    {
+      "month": 8,
+      "day": 1,
+      "name": "Start of Ramadan",
+      "description": "The pinnacle of Hajj; also a day of standing in prayer and seeking forgiveness.",
+      "dateLabel": "1 Ramadan",
+      "imageUrl": "image5",
+      "quote": "“Ramadan is the month whose beginning is mercy, whose middle is forgiveness and whose end is freedom from fire.”",
+      "todos": [
+        {
+          "icon": "🌙",
+          "label": "Intend to fast and prepare spiritually"
+        },
+        {
+          "icon": "🕌",
+          "label": "Attend Taraweeh prayers at the mosque"
+        },
+        {
+          "icon": "🍽️",
+          "label": "Wake up for suhoor (pre-dawn meal)"
+        },
+        {
+          "icon": "🤲",
+          "label": "Make dua for blessings in this month"
+        },
+        {
+          "icon": "📖",
+          "label": "Begin a daily habit of reading Quran"
+        }
+      ],
+      "facts": [
+        "Ramadan is the ninth month of the Islamic calendar and a time of fasting, prayer, and reflection.",
+        "Fasting from dawn to sunset is obligatory for adult Muslims, except those who are ill or traveling.",
+        "The month commemorates the first revelation of the Quran to Prophet Muhammad ﷺ.",
+        "The start of Ramadan is determined by the sighting of the new moon.",
+        "Special nightly prayers called Taraweeh are performed during Ramadan."
+      ]
+    },
+    {
+      "month": 11,
+      "day": 1,
+      "name": "Start of first 10 days of Dhul Hijjah",
+      "description": "",
+      "dateLabel": "1 Dhul Hijjah",
+      "imageUrl": "image6",
+      "quote": "",
+      "todos": [
+        {
+          "icon": "",
+          "label": "test"
+        }
+      ],
+      "facts": []
+    },
+    {
+      "month": 11,
+      "day": 9,
+      "name": "Day of Arafah",
+      "description": "“There is no day on which Allah frees more people from the Fire than the Day of Arafah.”",
+      "dateLabel": "9 Dhul Hijjah 1446 AH",
+      "imageUrl": "",
+      "quote": "“There is no day on which Allah frees more people from the Fire than the Day of Arafah.”",
+      "todos": [
+        {
+          "icon": "🕋",
+          "label": "Fast on the Day of Arafah (for non-pilgrims)"
+        },
+        {
+          "icon": "🤲",
+          "label": "Spend extra time in prayer and supplication"
+        },
+        {
+          "icon": "🧎‍♂️",
+          "label": "Seek forgiveness and mercy from Allah"
+        },
+        {
+          "icon": "💗",
+          "label": "Make dua for yourself, your loved ones, and the ummah"
+        },
+        {
+          "icon": "📿",
+          "label": "Recite the Talbiyah and other remembrances"
+        }
+      ],
+      "facts": [
+        "The Day of Arafah falls on the 9th day of Dhul Hijjah, the last month of the Islamic calendar.",
+        "It is the most important day of the Hajj pilgrimage, when pilgrims stand in prayer on the Plain of Arafah.",
+        "For non-pilgrims, fasting on this day is highly recommended and expiates sins of the previous and coming year.",
+        "It is a day of supplication, forgiveness, and mercy.",
+        "The Prophet Muhammad ﷺ described it as the best day for making dua."
+      ]
+    }
+  ]
+}

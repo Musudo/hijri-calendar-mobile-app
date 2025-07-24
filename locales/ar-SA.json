@@ -1,0 +1,28 @@
+{
+  "home": {
+    "title": "الرئيسية"
+  },
+  "calendar": {
+    "title": "التقويم",
+    "today": "اليوم",
+    "goToToday": "اذهب إلى اليوم",
+    "switchToArabic": "التبديل إلى العربية",
+    "switchToTranslit": "التبديل إلى الترجمة الصوتية",
+    "showMoon": "إظهار أطوار القمر",
+    "hideMoon": "إخفاء أطوار القمر"
+  },
+  "settings": {
+    "title": "الإعدادات",
+    "theme": "المظهر",
+    "language": "اللغة",
+    "calendar": "التقويم",
+    "system": "النظام",
+    "light": "فاتح",
+    "dark": "داكن",
+    "arabic": "العربية \uD83C\uDDF8\uD83C\uDDE6",
+    "english": "الإنجليزية \uD83C\uDDFA\uD83C\uDDF8",
+    "russian": "الروسية \uD83C\uDDF7\uD83C\uDDFA",
+    "arabicCalendar": "عرض التقويم العربي بالكامل",
+    "fullArabicWeekdays": "عرض أيام الأسبوع كاملة"
+  }
+}

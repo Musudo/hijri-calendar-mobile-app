@@ -1,0 +1,28 @@
+{
+  "home": {
+    "title": "Home"
+  },
+  "calendar": {
+    "title": "Calendar",
+    "today": "Today",
+    "goToToday": "Go to Today",
+    "switchToArabic": "Switch to Arabic",
+    "switchToTranslit": "Switch to Transliteration",
+    "showMoon": "Show Moon Phases",
+    "hideMoon": "Hide Moon Phases"
+  },
+  "settings": {
+    "title": "Settings",
+    "theme": "Theme",
+    "language": "Language",
+    "calendar": "Calendar",
+    "system": "System",
+    "light": "Light",
+    "dark": "Dark",
+    "arabic": "\uD83C\uDDF8\uD83C\uDDE6 Arabic",
+    "english": "\uD83C\uDDFA\uD83C\uDDF8 English",
+    "russian": "\uD83C\uDDF7\uD83C\uDDFA Russian",
+    "arabicCalendar": "Show fully Arabic calendar",
+    "fullArabicWeekdays": "Show full weekdays"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "holidays": [
+    {
+      "month": 9,
+      "day": 1,
+      "name": "Eid al-Fitr",
+      "dateLabel": "1 Shawwal",
+      "imageUrl": "image1",
+      "quote": "“May Allah accept our fasting and prayers. Eid Mubarak!”",
+      "description": "Celebration marking the end of Ramadan, a day of gratitude, prayer, and giving zakat al-fitr.",
+      "todos": [
+        {
+          "icon": "🕌",
+          "label": "Perform the Eid prayer in congregation"
+        },
+        {
+          "icon": "💰",
+          "label": "Give zakat al-fitr before the prayer"
+        },
+        {
+          "icon": "🎉",
+          "label": "Celebrate and greet family and friends"
+        },
+        {
+          "icon": "🍽️",
+          "label": "Enjoy festive meals together"
+        },
+        {
+          "icon": "💬",
+          "label": "Share Eid greetings: “Eid Mubarak!”"
+        }
+      ],
+      "facts": [
+        "Eid al-Fitr is celebrated on the 1st of Shawwal, after the month of Ramadan ends.",
+        "Muslims must pay zakat al-fitr (charity) to help those in need before the Eid prayer.",
+        "It is a day of joy, thanksgiving, and unity in the Muslim community.",
+        "Special foods and sweets are prepared for Eid celebrations.",
+        "It is traditional to wear new or best clothes on Eid."
+      ]
+    },
+    {
+      "month": 11,
+      "day": 10,
+      "name": "Eid al-Adha",
+      "dateLabel": "10 Dhul Hijjah",
+      "imageUrl": "image2",
+      "quote": "“Their meat will not reach Allah, nor will their blood, but what reaches Him is piety from you.” (Quran 22:37)",
+      "description": "Festival of Sacrifice commemorating Prophet Ibrahim’s devotion and the spirit of submission to Allah.",
+      "todos": [
+        {
+          "icon": "🕌",
+          "label": "Attend the Eid prayer at the mosque"
+        },
+        {
+          "icon": "🕋",
+          "label": "Remember the story of Prophet Ibrahim’s sacrifice"
+        },
+        {
+          "icon": "🐑",
+          "label": "Offer qurbani (animal sacrifice), if able"
+        },
+        {
+          "icon": "🍽️",
+          "label": "Distribute meat to family, friends, and the needy"
+        },
+        {
+          "icon": "💬",
+          "label": "Greet others with “Eid Mubarak!”"
+        }
+      ],
+      "facts": [
+        "Eid al-Adha is celebrated on the 10th of Dhul Hijjah, coinciding with the Hajj pilgrimage.",
+        "It commemorates Prophet Ibrahim’s (Abraham’s) willingness to sacrifice his son as an act of obedience.",
+        "Muslims who can afford it offer an animal sacrifice, sharing the meat with the poor.",
+        "The day is marked by prayers, community, and acts of charity.",
+        "Eid al-Adha lasts for up to three days in many countries."
+      ]
+    }
+  ]
+}

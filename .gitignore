@@ -1,0 +1,64 @@
+# Node modules
+node_modules/
+
+# Expo files
+.expo/
+.expo-shared/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# React Native
+android/
+ios/
+build/
+*.keystore
+
+# Environment files
+.env*
+.env
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+expo-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Metro Bundler cache
+metro-cache/
+# Watchman
+.watchmanconfig
+
+# Jest cache
+jest-cache/
+jest-test-results.json
+
+# Miscellaneous
+*.log
+
+# NativeWind (usually nothing special, but in case you generate CSS)
+*.css.d.ts
+
+# Expo web build
+web-build/
+
+# Android gradle files
+android/.gradle/
+android/app/build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+
+# Assets
+assets

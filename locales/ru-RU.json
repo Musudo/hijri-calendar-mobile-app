@@ -1,0 +1,28 @@
+{
+  "home": {
+    "title": "Главная"
+  },
+  "calendar": {
+    "title": "Календарь",
+    "today": "Сегодня",
+    "goToToday": "Перейти к сегодняшнему дню",
+    "switchToArabic": "Переключить на арабский",
+    "switchToTranslit": "Переключить на транслитерацию",
+    "showMoon": "Показать фазы луны",
+    "hideMoon": "Скрыть фазы луны"
+  },
+  "settings": {
+    "title": "Настройки",
+    "theme": "Тема",
+    "language": "Язык",
+    "calendar": "Календарь",
+    "system": "Системная",
+    "light": "Светлая",
+    "dark": "Тёмная",
+    "arabic": "\uD83C\uDDF8\uD83C\uDDE6 Арабский",
+    "english": "\uD83C\uDDFA\uD83C\uDDF8 Английский",
+    "russian": "\uD83C\uDDF7\uD83C\uDDFA Русский",
+    "arabicCalendar": "Полностью арабский календарь",
+    "fullArabicWeekdays": "Полные названия дней недели"
+  }
+}
